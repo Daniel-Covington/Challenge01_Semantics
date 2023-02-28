@@ -42,4 +42,4 @@ THEN I find a concise, descriptive title
 
 The following image demonstrates the web application's appearance and functionality:
 
-![Preview of Website](./assets/images/Preview.PNG)
+![Preview of Website](./assets/images/Preview.png)
