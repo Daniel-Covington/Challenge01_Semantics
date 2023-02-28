@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #  Changing divs into proper semantics
 Changed divs for the following:
 * Body
@@ -44,6 +43,3 @@ THEN I find a concise, descriptive title
 The following image demonstrates the web application's appearance and functionality:
 
 ![Preview of Website](./assets/images/Preview.PNG)
-=======
-# Challenge01_Semantics
->>>>>>> 7248aefb96c1e35330d120dc19321266b1e09b8f
